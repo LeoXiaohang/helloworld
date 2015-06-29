@@ -6,4 +6,4 @@ remote line
 master line
 new-line line
 new master line
-rebase line
+the end line
