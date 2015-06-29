@@ -1,6 +1,6 @@
 Hello World!
 
-1st line
+local line
 master line
 new-line line
 new master line
