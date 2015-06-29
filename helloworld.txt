@@ -1,6 +1,7 @@
 Hello World!
 
 new local line
+stash local line
 remote line
 master line
 new-line line
