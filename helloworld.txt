@@ -3,4 +3,4 @@ Hello World!
 1st line
 master line
 new-line line
-3rd line
+rebase line
