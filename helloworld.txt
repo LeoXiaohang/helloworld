@@ -1,6 +1,7 @@
 Hello World!
 
 local line
+remote line
 master line
 new-line line
 new master line
